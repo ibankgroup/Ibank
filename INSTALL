@@ -1,0 +1,9 @@
+Building iBank
+
+See doc/readme-qt.rst for instructions on building iBank QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of iBank.
+
+See doc/build-*.txt for instructions on building ibankd,
+the intended-for-services, no-graphical-interface, reference
+implementation of iBank.
